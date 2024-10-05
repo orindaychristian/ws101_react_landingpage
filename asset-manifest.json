@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage/static/css/main.ed9bb85d.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.637ac025.js",
+    "static/media/webdev.jpg": "/ws101_react_landingpage/static/media/webdev.f6395567f0e6b6e52d44.jpg",
+    "index.html": "/ws101_react_landingpage/index.html",
+    "main.ed9bb85d.css.map": "/ws101_react_landingpage/static/css/main.ed9bb85d.css.map",
+    "main.637ac025.js.map": "/ws101_react_landingpage/static/js/main.637ac025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9bb85d.css",
+    "static/js/main.637ac025.js"
+  ]
+}
