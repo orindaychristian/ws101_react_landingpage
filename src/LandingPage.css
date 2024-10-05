@@ -1,0 +1,108 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+  background-color: black;
+}
+
+header {
+  background-color: black;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  margin-left: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+nav ul li a:hover {
+  color: cyan;
+}
+
+#home {
+  text-align: center;
+  padding: 100px 20px;
+}
+
+#home h1 {
+  font-size: 4rem;
+  color: purple;
+}
+
+#home p {
+  font-size: 1.2rem;
+  margin: 20px 0;
+}
+
+#home button {
+  background-color: purple;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+#home button:hover {
+  background-color: cyan;
+}
+
+#about {
+
+  padding: 50px;
+  background-color: #222;
+}
+
+.about-content {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.left {
+  width: 50%;
+}
+
+.left h2 {
+  font-size: 2.5rem;
+  color: cyan;
+}
+
+.left p {
+  background-color: rgb(141, 107, 13);
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+}
+
+.right {
+  width: 50%;
+  text-align: center;
+}
+
+.right img {
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
